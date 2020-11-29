@@ -44,4 +44,6 @@ http://exittunes.com/license/
 
 # DEMO  
 [https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
-
+https://www.52pojie.cn/thread-1313480-1-1.html
+脚本地址：https://greasyfork.org/scripts/412245
+Github ：https://github.com/XIU2/UserScript（
